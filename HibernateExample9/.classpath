@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/antlr_2.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/commons-collections-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/dom4j-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/jta-1_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/javassist-3.4.ga.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/hibernate-3.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/slf4j-api-1.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/slf4j-simple-1.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/hibernate-annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/hibernate-commons-annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/ojdbc14.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/org-apache-commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/mullak/Desktop/softwares/requiredjars/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
